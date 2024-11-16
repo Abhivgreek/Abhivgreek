@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **abhishekwoork@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i2weQQFUkZKHDM3BoxPfiDJ6ejkBkZjt/view?usp=sharing]([https://drive.google.com/file/d/1i2weQQFUkZKHDM3BoxPfiDJ6ejkBkZjt/view?usp=sharing](https://drive.google.com/file/d/1-dc03ueSuFMugDu0DDQKHrP0E2kDBvCf/view?usp=sharing))
+- 📄 Know about my experiences [View the file](https://drive.google.com/file/d/1-dc03ueSuFMugDu0DDQKHrP0E2kDBvCf/view?usp=drive_link)
+
 
 - ⚡ Fun fact **I am Funny**
 
