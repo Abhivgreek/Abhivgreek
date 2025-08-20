@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **abhishekwoork@gmail.com**
 
-📄 Know about my experiences 
+- 📄 Know about my experiences 
 <a href="https://drive.google.com/file/d/1jhKlys7M2WXdC6BhtBEeM4p5gl32Ow45/view?usp=drive_link" target="_blank" rel="noopener noreferrer"> View the file </a>
 
 
