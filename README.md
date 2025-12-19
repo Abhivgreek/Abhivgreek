@@ -28,6 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhivgreek&show_icons=true&locale=en" alt="abhivgreek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhivgreek&" alt="abhivgreek" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhivgreek" /></p>
+
 
 ![snake gif](https://github.com/Abhivgreek/Abhivgreek/blob/output/github-contribution-grid-snake.gif)
