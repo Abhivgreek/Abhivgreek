@@ -40,6 +40,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhivgreek"/>
 </p>
 
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhivgreek&theme=github-dark)
+
+
 ---
 
 
